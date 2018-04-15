@@ -17,3 +17,4 @@ public class ForgetfulMachine {
     keyboard.next();
   }
 }
+//blows up when typing frank for an answer on #2 and donut on #3 becuase they are not values the progam was looking for. //
