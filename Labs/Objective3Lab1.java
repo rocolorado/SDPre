@@ -9,7 +9,7 @@ public class Objective3Lab1 {
     userInput = input.next();
     System.out.println( userInput );
 
-
+//this one was tricky with the missing import statement at the top!!!//
     input.close();
   }
 }
