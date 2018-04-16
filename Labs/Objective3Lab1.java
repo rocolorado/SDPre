@@ -8,8 +8,8 @@ public class Objective3Lab1 {
     System.out.println("Please Type a word: ");
     userInput = input.next();
     System.out.println( userInput );
-
-//this one was tricky with the missing import statement at the top!!!//
+System.out.println( userInput );
+//this one was tricky with the missing import statement at the top!!//
     input.close();
   }
 }
