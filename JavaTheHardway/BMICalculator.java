@@ -23,7 +23,7 @@ public class BMICalculator {
 
     bmi = kg / (m*m);
 
-    System.out.println( "YourBMI is " + bmi );
+    System.out.println( "Your BMI is " + bmi );
   }
 }
 //completed with study drills adding feet, inches and pounds and doing the calucations to convert to m,cm and kg)//
