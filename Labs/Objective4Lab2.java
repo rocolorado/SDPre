@@ -4,6 +4,7 @@ public class Objective4Lab2 {
     String string2 = "Bacon";
     String string3 = "Banana";
 
+
     if(string1.equals(string2)){
       System.out.println(string1 + " is equivalent to " + string2 );
     }
