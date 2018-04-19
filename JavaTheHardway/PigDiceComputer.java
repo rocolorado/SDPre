@@ -20,6 +20,7 @@ public class PigDiceComputer {
       }
     } while (roll != 1 && total <20 );
 
-    System.out.println("Computer ends the round with " + total + " points." );
+  System.out.println("Computer ends the round with: " + total + " points. ");
   }
 }
+// study drill completed on paper by rolling dice and looking at line of code. //
